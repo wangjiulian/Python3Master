@@ -29,8 +29,6 @@ print_welcome('Runn')
 w = 4
 h = 5
 print("width=",w," height=",h ," area=",area(w,h))	
-
-
 def printinfo11222( arg1, *vartuple):
 	"打印任何传入的参数"
 	print("输出:")
@@ -128,6 +126,10 @@ for f in sorted(set(basket)):
 
 
 print(sys.version)
+
+
+
+
 
 
 
